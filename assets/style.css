@@ -9,6 +9,8 @@ html,body
 	min-height: 100vh;
 	font-family: Baloo;
 	background-color: black;
+	max-width: 100%;
+    overflow-x: hidden
 }
 
 .hel
