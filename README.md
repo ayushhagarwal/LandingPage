@@ -7,4 +7,4 @@ A responsive landing page for a company with their details and good responive li
 * Bootstrap3
 
 #### Deployement
-You can deploy this site you can use any of the online hosting platforms like Netlify and Github pages. Also to deploy locallu just run the index.html file.
+You can deploy this site you can use any of the online hosting platforms like Netlify and Github pages. Also to deploy locally just run the index.html file.
